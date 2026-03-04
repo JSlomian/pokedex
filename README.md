@@ -22,6 +22,7 @@ API_KEY=value
 
 ```bash
 ./vendor/bin/sail up -d
+./vendor/bin/sail artisan migrate
 ```
 
 # Api Routes
